@@ -10,4 +10,8 @@ Fungsi Pencarian: Pada halaman beranda, terdapat fungsi pencarian berdasarkan na
 
 Teknologi yang Digunakan Framework: CodeIgniter 4. Bahasa Pemrograman: PHP, HTML, CSS, JavaScript. Database: MySQL.
 
-Catatan: a. Masi terdapat fitur yang belum dikembangkan b. Code bersifat open source dan dapat dipergunakan kembali c. Semoga program yang saya buat bermanfaat
+Catatan: a. Masi terdapat fitur yang belum dikembangkan
+b. Code bersifat open source
+c. Sangat tidak disarankan untuk copypaste karena sama saja menghambat teman-teman dalam belajar web programming khususnya CodeIgniter
+d. Semoga program yang saya buat bisa menjadikan referensi dalam pembelajaran CodeIgniter dan bermanfaat untuk teman-teman semua
+
